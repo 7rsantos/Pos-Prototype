@@ -1,0 +1,6 @@
+/app/
+/application/
+/gui/
+/hibernate.cfg.xml
+/log4j.properties
+/res/
