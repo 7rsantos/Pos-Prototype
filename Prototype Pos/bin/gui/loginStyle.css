@@ -1,0 +1,73 @@
+#title
+{
+ -fx-text-fill: white;
+ -fx-font-weight: bold;
+ -fx-font-size: 26px;
+ -fx-text-alignment: center;	
+ -fx-padding: 10px 10px 10px 10px;
+}
+
+#body { 
+
+ -fx-padding: 10;
+ -fx-font: 16px "Serif";
+ -fx-background-color: #292539;
+ -fx-border-color: white;
+}
+
+#center
+{
+ -fx-background-color: #41334b;
+ -fx-background-radius: 20;
+ -fx-border-radius: 20; 	
+ -fx-padding: 10px 10px 10px 10px;
+ -fx-spacing: 5px;
+ 
+}
+
+#bottom
+{
+ -fx-padding: 10px 10px 10px 10px;	
+}
+
+#pass
+{
+ -fx-text-fill: white;
+ -fx-font-weight: bold;	
+}
+
+#user
+{
+ -fx-text-fill: white;
+ -fx-font-weight: bold;	
+}
+
+#login
+{
+  -fx-background-color: #5488d8;	
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+  -fx-text-fill: white; 
+  -fx-font-weight: bold;
+}
+
+#login:hover
+{
+  -fx-scale-y:0.9;
+  -fx-scale-x: 0.9;
+}
+
+#clear
+{
+  -fx-background-color: #5488d8;
+  -fx-background-radius: 5;
+  -fx-border-radius: 5; 
+  -fx-text-fill: white;
+  -fx-font-weight: bold;	
+}
+
+#clear:hover
+{
+  -fx-scale-y:0.9;
+  -fx-scale-x: 0.9;
+}
